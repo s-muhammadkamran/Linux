@@ -1,0 +1,5 @@
+Check Version of OS:
+
+cat /etc/os-release
+
+
